@@ -1,16 +1,14 @@
 # MOVIES_PERFORMANCE_VIEW
 <br>
-• Conducted a comprehensive data analysis on Atliq Hotels, examining 2 billion in revenue, 298.77 million in refunds, and occupancy rates of 43.5% over a 3-month period.
+•Analyzed a dataset of 3,230 movies, identifying 946 above-average and 2,284 below-average films based on revenue.
 <br>
-• Analyzed key metrics such as cancellation rate (24.83%), customer ratings (3.41), and revenue distribution, revealing 69.34% of revenue generated during weekdays and 30.66% on weekends.
+•Conducted detailed revenue analysis, highlighting AVATAR with a budget of $237 million and a revenue of $2.79 billion, as a standout example of above-average performance.
 <br>
-• Provided actionable insights into hotel performance, identifying trends and areas for operational improvements to (28-30%) enhance profitability and customer satisfaction
-Analyzed hotel occupancy rates, revealing Mumbai's occupancy rate at 49.69%, providing insights into regional performance.
+•Analyzed the EAST movie, with a budget of $6.5 million and a revenue of $2.4 million, as a representative example of below-average performance.
 <br>
-•Conducted a comparative analysis of occupancy data between Mumbai and Delhi, highlighting Mumbai's higher occupancy compared to Delhi.
+•Identified Tom Cruise as the highest-grossing lead actor, generating a total revenue of $7.57 billion from his movies.
 <br>
-•Identified key revenue-generating patterns, with Delhi achieving a higher revenue of ₹118,448,418 despite lower occupancy.
+•Found Christian Bale to be the lowest-grossing lead actor, with a total revenue of $3.92 billion from his movies.
 <br>
-•Utilized data visualization tools to present findings, making complex data accessible for stakeholders' decision-making.
+•Identified Minions as the most popular movie with an average popularity score of 875.58, while Iron Man had the lowest popularity score at 77.68.
 <br>
-•Delivered actionable insights that contributed to optimizing pricing and resource allocation strategies for better performance across regions.<br>
